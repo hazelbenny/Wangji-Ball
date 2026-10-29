@@ -9,9 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: de9de6ca85b8244508ab4854cea46d75
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/Level1_CloudRecesses.unity
     guid: 85bc4ce7c4f839b40951e1a883d4b53d
   - enabled: 0
+=======
+>>>>>>> origin/main
     path: Assets/Scenes/TestLevel.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
